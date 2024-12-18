@@ -1,0 +1,898 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.ipotkabank-rasm {
+    background-image: url(3grfg8ynfzwiiaptm81owwiu1iiazp5e.jpg);
+    height: 600px;
+    width: 100%;
+    background-position: center;
+}
+
+.container {
+    max-width: 1190px;
+    margin: auto;
+}
+
+.mobile-phone {
+    display: inline-block;
+    color: white;
+    font-size: 23px;
+    margin-top: 18px;
+}
+
+.call {
+    display: inline-block;
+    padding-left: 7px;
+    color: white;
+    font-weight: 800;
+}
+
+.center-1233,
+.center-a {
+    color: white;
+    font-weight: 800;
+}
+
+.contact {
+    display: inline-block;
+    padding-left: 15px;
+    font-weight: 800;
+    color: white;
+}
+
+.Special-a {
+    padding-left: 250px;
+    color: white;
+    font-weight: 800;
+}
+
+.select-option-eng {
+    height: 30px;
+    width: 60px;
+    border-radius: 20px;
+    font-weight: 800;
+    color: rgb(18, 209, 34);
+    margin-left: 235px;
+    outline: 0;
+}
+
+form input {
+    width: 400px;
+    height: 48px;
+    border-radius: 30px;
+    padding-left: 15px;
+    margin-left: 350px;
+    margin-top: 30px;
+    text-transform: capitalize;
+    border: none;
+    display: inline-block;
+}
+
+form input:focus {
+    outline: 2px green solid;
+}
+
+.select-option-login:focus,
+.select-option-login {
+    height: 45px;
+    width: 100px;
+    border-radius: 25px;
+    padding-left: 5px;
+    background-color: #52ae30;
+    border: none;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    outline: 0;
+    margin-left: 1080px;
+    position: relative;
+    top: -42px;
+}
+
+.select-option-login option {
+    background-color: white;
+    height: 25px;
+    color: black;
+    font-size: 15px;
+}
+
+.select-option-login option i {
+    color: white;
+    font-size: 15px;
+}
+
+nav ul li a {
+    color: black;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 11px;
+}
+
+nav {
+    background-color: white;
+    width: 100%;
+    border-radius: 35px;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    padding: 25px 52px;
+    text-align: center;
+}
+
+nav ul li a:hover {
+    color: rgb(119, 196, 42);
+}
+
+.dibank {
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    margin-top: 45px;
+    margin-left: 25px;
+}
+
+.dibank-servis {
+    font-size: 25px;
+    color: white;
+    font-weight: 550;
+    margin-left: 25px;
+    margin-top: 8px;
+}
+
+.more-green {
+    background-color: #f60;
+    padding: 20px 40px;
+    border-radius: 32px;
+    color: white;
+    position: relative;
+    top: 50px;
+    left: 25px;
+}
+
+.more-green:hover {
+    background-color: #52ae30;
+    color: #3f8a24;
+}
+
+.koz {
+    position: relative;
+    left: 245px;
+    font-size: 22px;
+    color: white;
+    top: 2px;
+}
+
+.koz:hover {
+    color: #52ae30;
+}
+
+.Special-a:hover {
+    color: #52ae30;
+}
+
+.telegram,
+.fasebook,
+.instagram,
+.wifi {
+    font-size: 20px;
+    padding: 3px;
+    color: white;
+}
+
+.telegram:hover,
+.fasebook:hover,
+.instagram:hover,
+.wifi:hover {
+    color: #52ae30;
+}
+
+.wifi {
+    transform: rotate(45deg);
+}
+
+/* footer section*/
+
+.section-4 {
+    height: 600px;
+}
+
+.container-2 {
+    max-width: 1300px;
+    margin: auto;
+}
+
+.individual-clients {
+    background-color: white;
+    height: 280px;
+    width: 45%;
+    border-radius: 30px;
+    margin-top: 45px;
+    box-shadow: 0 16px 48px rgba(73, 92, 136, .15);
+    border: 1px solid #e4e8e7;
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.individual-clients i {
+    color: white;
+    font-size: 50px;
+    color: #52ae30;
+    margin-left: 80px;
+    padding-top: 45px;
+}
+
+.individual {
+    color: black;
+    font-size: 27px;
+    position: relative;
+    top: -17px;
+    left: 15px;
+    font-weight: 800;
+}
+
+.money {
+    color: #52ae30;
+    font-size: 19px;
+    padding-left: 145px;
+    line-height: 30px;
+}
+
+/* main-section1 */
+
+.main-section1 {
+    height: 530px;
+    background-color: #eceff6;
+    margin-top: 150px;
+}
+
+.main-container {
+    max-width: 1240px;
+    margin: auto;
+}
+
+.bank-news {
+    font-size: 30px;
+    font-weight: 800;
+    padding-top: 50px;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.others-news {
+    margin-left: 900px;
+    font-size: 18px;
+    color: black;
+    position: relative;
+    top: -8px;
+}
+
+.others-news:hover {
+    color: #52ae30;
+    position: relative;
+    right: 15px;
+}
+
+.strelka:hover {
+    position: relative;
+    left: 10px;
+}
+
+.bank-news-ipotekabank {
+    height: 380px;
+    width: 380px;
+    background-color: white;
+    border-radius: 25px;
+    margin-top: 35px;
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.bank-news-ipotekabank-rasm {
+    background-image: url(ch2ijun89xldke1d059d6kupfkgi53k4.png);
+    height: 200px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.bank-news-ipotekabank-p1 {
+    font-size: 19px;
+    margin-left: 25px;
+    margin-top: 25px;
+    font-weight: 600;
+}
+
+.bank-news-ipotekabank-p2:hover,
+.bank-news-ipotekabank-p1:hover {
+    color: #5b5f68;
+    cursor: pointer;
+}
+
+.bank-news-ipotekabank-border {
+    background-color: rgb(143, 137, 137);
+    height: 1px;
+    width: 85%;
+    margin: auto;
+    margin-top: 45px;
+}
+
+.bank-news-ipotekabank-p2 {
+    font-size: 17px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+/* main-section2 */
+
+.main-section2 {
+    background-color: white;
+    height: 500px;
+}
+
+.main-section2-div {
+    height: 400px;
+    background-color: #f4f9ff;
+    width: 94%;
+    margin: auto;
+    border-radius: 25px;
+    margin-top: 100px;
+    box-shadow: 0px 0px 11px 2px #0000001f;
+}
+
+.main-section2-div-p1 {
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 65px;
+    padding-top: 50px;
+}
+
+.main-section2-div-p2 {
+    font-size: 18px;
+    padding-left: 65px;
+    line-height: 35px;
+    color: #666;
+}
+
+.usd {
+    font-weight: 900;
+    font-size: 25px;
+    color: #5b5f68;
+    display: inline-block;
+    margin-left: 65px;
+    margin-top: 90px;
+}
+
+.usd-p1 {
+    display: inline-block;
+    font-size: 20px;
+    padding-left: 55px;
+}
+
+.down {
+    color: rgb(228, 54, 54);
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.eur {
+    font-weight: 900;
+    font-size: 25px;
+    color: #5b5f68;
+    display: inline-block;
+    margin-left: 65px;
+    margin-top: 20px;
+}
+
+.gbp {
+    font-weight: 900;
+    font-size: 25px;
+    color: #5b5f68;
+    display: inline-block;
+    margin-left: 65px;
+    margin-top: 20px;
+}
+
+.show-more {
+    color: #006648;
+    font-weight: bold;
+    font-size: 19px;
+    padding-left: 470px;
+    margin-top: 25px;
+    position: relative;
+    top: 15px;
+}
+
+.show-more:hover {
+    color: #52ae30;
+}
+
+.main-section2-div-border {
+    width: 1px;
+    height: 100%;
+    margin: auto;
+    background-color: #a3a4a7;
+}
+
+.exchange-rates {
+    width: 50%;
+    float: left;
+}
+
+.exchange {
+    width: 50%;
+    float: right;
+    margin-top: -350px;
+}
+
+.select-usd {
+    height: 40px;
+    width: 70px;
+    border-radius: 10px;
+    color: #006648;
+    font-weight: 900;
+    font-size: 20px;
+    border: none;
+    display: inline-block;
+    margin-left: 180px;
+}
+
+.select-eur:focus,
+.select-usd:focus {
+    outline: 0;
+}
+
+.select-eur:hover,
+.select-usd:hover {
+    background-color: #52ae30;
+    color: white;
+}
+
+.select-eur:active,
+.select-usd:active {
+    background-color: white;
+    color: #52ae30;
+}
+
+.select-eur option,
+.select-usd option {
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.exchange-p1 {
+    font-size: 30px;
+    font-weight: 900;
+    display: inline-block;
+    margin-left: 60px;
+}
+
+.exchange-p2 {
+    font-size: 28px;
+    font-weight: 900;
+    display: inline-block;
+    padding-left: 15px;
+}
+
+.select-eur {
+    height: 40px;
+    width: 70px;
+    border-radius: 10px;
+    color: #006648;
+    font-weight: 900;
+    font-size: 20px;
+    border: none;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.exchange-have-p1 {
+    color: #666;
+    margin-left: 65px;
+    font-size: 20px;
+    margin-top: 30px;
+    display: inline-block;
+}
+
+.exchange-have-p2 {
+    margin-left: 500px;
+    font-size: 25px;
+    margin-top: -28px;
+    font-weight: 700;
+}
+
+.exchange-have-border {
+    width: 80%;
+    height: 1px;
+    background-color: #a3a4a7;
+    margin: auto;
+    margin-top: 18px;
+}
+
+.exchange-have-p3 {
+    margin-left: 200px;
+    font-size: 18px;
+    display: inline-block;
+    color: #5b5f68;
+}
+
+.exchange-buy {
+    margin-left: 65px;
+    color: #5b5f68;
+}
+
+.exchange-sell {
+    margin-left: 350px;
+    margin-top: -17px;
+    color: #5b5f68;
+}
+
+.exchange-have-p4 {
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 65px;
+    margin-top: 35px;
+    display: inline-block;
+}
+
+.exchange-have-more {
+    color: #006648;
+    font-size: 18px;
+    margin-left: 270px;
+}
+
+.exchange-have-more:hover {
+    position: relative;
+    right: 13px;
+    color: #93ca7f;
+}
+
+.strel {
+    position: relative;
+    top: 8px;
+}
+
+.main-section3-rasm {
+    background-image: url(phonebgbanner.jpg);
+    background-size: cover;
+    height: 500px;
+    background-repeat: no-repeat;
+}
+
+.main-section3-rasm-oq {
+    max-width: 1260px;
+    background-color: white;
+    height: 500px;
+    margin: auto;
+    opacity: 60%;
+}
+
+.mobile-application {
+    font-size: 30px;
+    font-weight: 800;
+    padding: 40px 60px;
+}
+
+.tiked {
+    display: inline-block;
+    height: 19px;
+    margin-left: 60px;
+}
+
+.quick {
+    margin-left: 10px;
+    display: inline-block;
+    line-height: 42px;
+    font-size: 18px;
+}
+
+.ticked-quick {
+    margin-left: 370px;
+    margin-top: -210px;
+}
+
+.google-ima,
+.google-imag,
+.google-image {
+    margin-top: 80px;
+    margin-left: 22px;
+}
+
+.google-image {
+    margin-left: 65px;
+}
+
+.google-ima:hover,
+.google-imag:hover,
+.google-image:hover {
+    opacity: 80%;
+}
+
+/* main section4 */
+
+.main-section4 {
+    background-color: white;
+    height: 700px;
+}
+
+.containeral {
+    max-width: 1150px;
+    margin: auto;
+}
+
+.foiz28 {
+    float: left;
+    background-color: #cff7e1;
+    border: 1px solid #a0ecc2;
+    height: 430px;
+    width: 31%;
+    border-radius: 30px;
+    margin-top: 190px;
+    box-shadow: 0px 2px 11px 0px #0000001f;
+    text-align: center;
+}
+
+.foiz28 p {
+    font-size: 20px;
+    padding-top: 100px;
+    color: #505052;
+}
+
+.foiz28 a {
+    font-size: 18px;
+    background-color: #52ae30;
+    padding: 15px 55px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 800;
+    position: relative;
+    top: 140px;
+}
+
+.foiz28 a:hover {
+    background-color: #61c53c;
+}
+
+/* foiz68 */
+
+.foiz68 {
+    float: right;
+    background-color: #cff7e1;
+    border: 1px solid #a0ecc2;
+    height: 430px;
+    width: 66%;
+    border-radius: 30px;
+    margin-top: 190px;
+    box-shadow: 0px 2px 11px 0px #0000001f;
+
+}
+
+.foiz68-p1 {
+    font-size: 25px;
+    font-weight: 700;
+    padding: 25px;
+}
+
+.foiz68 i {
+    font-size: 150px;
+    color: #52ae30;
+    margin-top: 60px;
+    margin-left: 45px;
+}
+
+.foiz68-div {
+    position: relative;
+    left: 30px;
+    margin-top: 25px;
+    display: inline-block;
+}
+
+.foiz68-div-p1 {
+    font-weight: 800;
+    font-size: 16px;
+}
+
+.green-box {
+    height: 20px;
+    width: 20px;
+    background-color: #3f8a24;
+    display: inline-block;
+    margin-top: 50px;
+}
+
+.bravn-box {
+    height: 20px;
+    width: 20px;
+    background-color: rgb(224, 174, 65);
+    display: inline-block;
+}
+
+.foiz68-div-p2 {
+    margin-left: 5px;
+    display: inline-block;
+    line-height: 50px;
+}
+
+.foiz68-div-p3 {
+    line-height: 40px;
+    font-size: 14px;
+    color: #5b5f68;
+}
+
+.foiz68-div-span {
+    color: blue;
+    font-size: 17px;
+    font-weight: 800;
+}
+
+/* footer*/
+
+.container-footer h3 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 35px;
+    padding-top: 35px;
+}
+
+.container-footer {
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+
+.foiz-1-20 {
+    width: 19.7%;
+    height: 100px;
+    display: inline-block;
+    margin-top: 23px;
+}
+
+.footer-kulrang {
+    background-color: #f5f7f8;
+    height: 237px;
+}
+
+.foiz-1-20-border {
+    width: 1px;
+    height: 140px;
+    background-color: #d1d1e0;
+    position: relative;
+    margin-left: 240px;
+    top: -130px;
+}
+
+.foiz-1-20 a {
+    color: #3f8a24;
+    font-weight: 900;
+}
+
+.malumot {
+    height: 380px;
+}
+
+.container-malumot {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.malumot-nummer {
+    width: 32%;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.malumot-border {
+    height: 1px;
+    width: 100%;
+    background-color: #d2d4db;
+    margin-top: 25px;
+}
+
+.malumot-p1 {
+    font-size: 15px;
+    color: rgb(0, 102, 72);
+    font-weight: 900;
+    padding-top: 35px;
+}
+
+.malumot p {
+    display: inline-block;
+}
+
+.malumot i {
+    color: #3f8a24;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.malumot-katta-border {
+    width: 100%;
+    height: 1px;
+    background-color: #d2d4db;
+    margin-top: 65px;
+}
+
+.working {
+    margin-top: 35px;
+    color: #585b63;
+}
+
+.ikonca {
+    margin-left: 820px;
+}
+
+.ikonca i {
+    font-size: 40px;
+    padding: 8px;
+    position: relative;
+    top: -55px;
+}
+
+.footer-green {
+    background-color: #52ae30;
+    height: 150px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    color: white;
+}
+
+.ipotekabank-2 {
+    font-size: 45px;
+    margin-left: 100px;
+    padding-top: 20px;
+    font-weight: 900;
+}
+
+.yil {
+    margin-top: 35px;
+    margin-left: 100px;
+}
+
+.when {
+    margin-left: 900px;
+    margin-top: -100px;
+    font-size: 18px;
+}
+
+.bizga-xabar-qoldiring {
+    height: 20px;
+    width: 200px;
+    background-color: #3f8a24;
+    border-top-right-radius: 15px;
+    position: sticky;
+    left: 900px;
+    margin-top: 47px;
+    padding: 8px;
+}
+
+.bizga-xabar-qoldiring p {
+    display: inline-block;
+}
+
+
+form i {
+    color: #006648;
+    font-size: 15px;
+}
+
+.buttonn {
+    padding: 15px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border: none;
+    background-color: white;
+    position: relative;
+    right: 52px;
+    cursor: pointer;
+}
